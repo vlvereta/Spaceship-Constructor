@@ -1,27 +1,27 @@
 # Spaceship-Constructor
-Mini console game on PHP as an exercise #4 for Binary Studio Academy 2018.
+Mini console game on PHP as an exercise #4 for **Binary Studio Academy 2018**.
 
 ***
 
 #### Установка
 
 ```bash
-git clone https://pavelnemoi@bitbucket.org/pavelnemoi/bsa-php-2018-4.git
-cd bsa-2018-php-4
+git clone https://github.com/vlvereta/Spaceship-Constructor.git
+cd Spaceship-Constructor
 composer install
 ```
 
 #### Задание
 
-Реализовать игру "Spaceship constructor" с консольным интерфейсом по следующему описанию.
+Реализовать игру "Spaceship Constructor" с консольным интерфейсом по следующему описанию.
 Представьте, что мы строим космический корабль. Он состоит из следующего набора частей:
-* shell - корпус;
-* porthole - иллюминатор;
-* control_unit - панель управления;
-* engine - двигатель;
-* launcher - пусковая установка;
-* tank - топливный бак;
-* ic и wires - составные части.
+* **shell** - корпус;
+* **porthole** - иллюминатор;
+* **control_unit** - панель управления;
+* **engine** - двигатель;
+* **launcher** - пусковая установка;
+* **tank** - топливный бак;
+* **ic** и **wires** - составные части.
 
 Для построения каждой части корабля требуются определенные ресурсы ([см. схему](https://drive.google.com/file/d/1JfxBIqYFk72xpxDqXvNRqmuQdsbqzTvQ/view)).
 Ресурсы могут быть комбинированными (напр. metal).
