@@ -1,0 +1,22 @@
+{
+    "name": "bsa-2018-php-4",
+    "description": "Hometask for object oriented design lecture. Console game",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "BinaryStudioAcademy\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BinaryStudioAcademyTests\\": "tests/"
+        }
+    }
+}

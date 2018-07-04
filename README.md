@@ -3,6 +3,14 @@ Mini console game on PHP as an exercise #4 for Binary Studio Academy 2018.
 
 ***
 
+#### Установка
+
+```bash
+git clone https://pavelnemoi@bitbucket.org/pavelnemoi/bsa-php-2018-4.git
+cd bsa-2018-php-4
+composer install
+```
+
 #### Задание
 
 Реализовать игру "Spaceship constructor" с консольным интерфейсом по следующему описанию.
